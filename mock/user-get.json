@@ -1,0 +1,19 @@
+{
+  "returnCode": 0,
+  "object": {
+    "createTime": "2017-01-26 20:14:52",
+    "ifNew": "1",
+    "lastLoginTime": "2017-01-26 20:14:52",
+    "realName": "8888888",
+    "role": {
+      "mark": "超级管理员角色,不能删除",
+      "oiNum": null,
+      "roleGroup": "性能测试组",
+      "roleId": 1,
+      "roleName": "admin"
+    },
+    "status": "1",
+    "userId": 4,
+    "username": "8888"
+  }
+}

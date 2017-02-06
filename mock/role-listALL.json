@@ -1,0 +1,19 @@
+{
+  "returnCode": 0,
+  "data": [
+    {
+      "mark": "超级管理员角色,不能删除",
+      "oiNum": 119,
+      "roleGroup": "测试组",
+      "roleId": 1,
+      "roleName": "admin"
+    },
+    {
+      "mark": "默认组,不能删除",
+      "oiNum": 0,
+      "roleGroup": "测试组",
+      "roleId": 3,
+      "roleName": "default"
+    }
+  ]
+}

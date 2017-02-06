@@ -1,0 +1,72 @@
+{
+  "draw": 1,
+  "returnCode": 0,
+  "recordsFiltered": 4,
+  "data": [
+    {
+      "createTime": "2017-01-26 20:14:52",
+      "ifNew": "1",
+      "lastLoginTime": "2017-01-26 20:14:52",
+      "realName": "8888888",
+      "role": {
+        "mark": "超级管理员角色,不能删除",
+        "oiNum": null,
+        "roleGroup": "性能测试组",
+        "roleId": 1,
+        "roleName": "admin"
+      },
+      "status": "1",
+      "userId": 4,
+      "username": "8888"
+    },
+    {
+      "createTime": "2016-11-01 10:26:11",
+      "ifNew": "1",
+      "lastLoginTime": "2016-11-04 10:18:23",
+      "realName": "测试人员",
+      "role": {
+        "mark": "默认组,不能删除",
+        "oiNum": null,
+        "roleGroup": "性能测试组",
+        "roleId": 3,
+        "roleName": "default"
+      },
+      "status": "1",
+      "userId": 3,
+      "username": "xuwangcheng888"
+    },
+    {
+      "createTime": "2016-09-18 14:36:06",
+      "ifNew": "1",
+      "lastLoginTime": "2017-02-06 10:11:41",
+      "realName": "超级管理员",
+      "role": {
+        "mark": "超级管理员角色,不能删除",
+        "oiNum": null,
+        "roleGroup": "性能测试组",
+        "roleId": 1,
+        "roleName": "admin"
+      },
+      "status": "0",
+      "userId": 2,
+      "username": "admin"
+    },
+    {
+      "createTime": "2016-09-03 19:07:47",
+      "ifNew": "1",
+      "lastLoginTime": "2016-11-02 11:29:43",
+      "realName": "徐汪成",
+      "role": {
+        "mark": "超级管理员角色,不能删除",
+        "oiNum": null,
+        "roleGroup": "性能测试组",
+        "roleId": 1,
+        "roleName": "admin"
+      },
+      "status": "0",
+      "userId": 1,
+      "username": "xuwangcheng"
+    }
+  ],
+  "recordsTotal": 4
+}

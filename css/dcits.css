@@ -1,0 +1,34 @@
+/****************DataTable渲染相关CSS***********************/
+/* 单元格连续纯字母数字强制换行显示 */
+.wordwrap{
+	word-wrap: break-word;
+	word-break: break-all;
+	overflow: hidden; 
+}
+/* 超长文字单元格省略号显示 */
+.ellipsis{
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	-o-text-overflow: ellipsis;
+}
+/* spin遮罩层 */
+.overlay{
+    width: 100%;
+    height: 100%;
+    top:0;
+    left:0;
+    position: absolute;
+    z-index: 1;
+	background: white;
+	filter: alpha(opacity = 60);
+	opacity: .6;
+}
+/* fixed的表格才可以使单元格显示省略号*/
+.table{ 
+	table-layout:fixed; 
+} 
+
+#div-table-container{
+	position:relative;
+}
